@@ -13,6 +13,7 @@
               <div class="col-sm-12 col-md-4 col-lg-4"></div>
               <div class="col-sm-12 col-md-4 col-lg-4 Div_glob">
                 <h2 style="color:blue;">Connectez-vous</h2>
+                <h3>Mon titre 3 cool</h3>
               <div>
                 
                 <?php
