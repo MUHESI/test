@@ -12,7 +12,7 @@
             <div class="row">
               <div class="col-sm-12 col-md-4 col-lg-4"></div>
               <div class="col-sm-12 col-md-4 col-lg-4 Div_glob">
-                <h2>Connectez vous</h2>
+                <h2>Connectez vous ici</h2>
               <div>
                 
                 <?php
