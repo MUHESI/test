@@ -1,0 +1,31 @@
+  body{
+    background: #f08cee;
+   }
+ .Div_glob{
+    background: #bab2e3;
+    border-radius: 10px;
+    margin-top:10%;
+ }
+ .Div_glob input{
+    border-radius: 15px;
+ }
+ .Div_glob_lien_et_Bout{
+    text-align: center;
+ }
+  .Div_glob_lien_et_Bout a{
+    color: black;
+  }
+.Div_glob_lien_et_Bout button{
+  color: white;
+  background-color:black;
+  border-radius: 15px;
+  }
+.Div_glob_lien_et_Bout button:hover{
+  color: white;
+  font-weight: bold;
+  background-color:black;
+  border-radius: 15px;
+  }
+  div {
+    color:black;
+  }
